@@ -1,7 +1,7 @@
 import random
 
 def choose_word():
-    words_list = ["umbrella", "chicken", "couch", "purple", "orange", "giraffe", "calculus", "toad", "squirrel"]
+    words_list = ["soup", "chicken", "banana", "pasta", "orange", "eggs", "burger", "cereal", "salmon"]
     return random.choice(words_list)
 
 def check_win(word, dashes):

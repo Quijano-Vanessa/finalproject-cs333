@@ -5,7 +5,8 @@ def welcome_message(word):
     length = len(word)
     print()
     print("\t\t* * Hangman Game * *")
-    print("\t\tWelcome. The word has", length, "letters.\n")
+    print("\t\tWelcome. The word has", length, "letters.")
+    print("\t\tTopic: Food\n")
 
 def display_dashes(dashes):
     ## - - Only Printing the game dashes
