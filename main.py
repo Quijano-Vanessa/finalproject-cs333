@@ -1,4 +1,4 @@
-##CS 33 - Final Project - Vanessa Quijano
+##CS 333 - Final Project - Vanessa Quijano
 import hangman
 import rules
 import printing
